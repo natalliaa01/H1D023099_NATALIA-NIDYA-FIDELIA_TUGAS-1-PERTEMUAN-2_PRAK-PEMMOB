@@ -19,7 +19,7 @@ Repositori ini berisi tugas-tugas praktikum Pemrograman Mobile.
 
 Aplikasi ini menampilkan halaman selamat datang untuk Program Studi Informatika, Universitas Jenderal Soedirman.
 
-### Tampilan Aplikasi
+### Tugas 1 Pertemuan 2
 
 #### Ikon Aplikasi
 <img src="assets/aplikasi.png" width="200" alt="Ikon Aplikasi If Unsoed Mobile"/>
@@ -29,11 +29,8 @@ Aplikasi ini menampilkan halaman selamat datang untuk Program Studi Informatika,
 
 ---
 
-## Pertemuan 3 – Tugas 2
-
-### Deskripsi Tugas
-Aplikasi ditambahkan fitur navigasi untuk perpindahan antar halaman.  
+## Tugas 2 Pertemuan 3
 
 ### Demo Aplikasi
-Berikut adalah demo aplikasi (video/gif) yang memperlihatkan perpindahan halaman:
+Aplikasi ditambahkan fitur navigasi untuk perpindahan antar halaman.  
 <img src="assets/demotugas.gif" width="250" alt="Demo Perpindahan Halaman Aplikasi"/>
