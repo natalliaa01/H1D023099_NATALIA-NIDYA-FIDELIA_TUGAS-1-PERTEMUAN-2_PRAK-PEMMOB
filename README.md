@@ -37,4 +37,4 @@ Aplikasi ditambahkan fitur navigasi untuk perpindahan antar halaman.
 ### Demo Aplikasi
 Berikut adalah demo aplikasi (video/gif) yang memperlihatkan perpindahan halaman:
 
-<img src="assets/demotugas.gif" width="250" alt="Demo Perpindahan Halaman Aplikasi"/>
+<img src="assets/demotugas2.gif" width="250" alt="Demo Perpindahan Halaman Aplikasi"/>
