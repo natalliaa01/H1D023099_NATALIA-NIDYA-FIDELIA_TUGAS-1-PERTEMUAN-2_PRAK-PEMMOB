@@ -1,10 +1,8 @@
 # Praktikum Pemrograman Mobile
 
-Repositori ini berisi tugas-tugas praktikum Pemrograman Mobile.
-
 ---
 
-### Detail Mahasiswa
+### Data Mahasiswa
 
 * **Nama:** Natalia Nidya Fidelia  
 * **NIM:** H1D023099  
@@ -14,10 +12,6 @@ Repositori ini berisi tugas-tugas praktikum Pemrograman Mobile.
 * **Universitas:** Universitas Jenderal Soedirman  
 
 ---
-
-### Deskripsi Aplikasi
-
-Aplikasi ini menampilkan halaman selamat datang untuk Program Studi Informatika, Universitas Jenderal Soedirman.
 
 ### Tugas 1 Pertemuan 2
 
@@ -29,6 +23,5 @@ Aplikasi ini menampilkan halaman selamat datang untuk Program Studi Informatika,
 
 ### Tugas 2 Pertemuan 3
 
-### Demo Aplikasi
-Aplikasi ditambahkan fitur navigasi untuk perpindahan antar halaman.  
+#### Demo Aplikasi
 <img src="assets/demotugas.gif" width="200" alt="Demo Perpindahan Halaman Aplikasi"/>
