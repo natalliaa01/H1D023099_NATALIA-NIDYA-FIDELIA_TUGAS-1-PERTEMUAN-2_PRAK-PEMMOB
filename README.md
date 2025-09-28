@@ -29,4 +29,4 @@
 ### Tugas 3 Pertemuan 4
 
 #### Demo Aplikasi
-<img src="assets/demotugas3.gif" width="200" alt="Demo List Buku"/>
+<img src="assets/demotugas3.gif" width="600" alt="Demo List Buku"/>
