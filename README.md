@@ -23,5 +23,10 @@
 
 ### Tugas 2 Pertemuan 3
 
-#### Demo Aplikasi
+#### Demo Aplikasi 
 <img src="assets/demotugas.gif" width="200" alt="Demo Perpindahan Halaman Aplikasi"/>
+
+### Tugas 3 Pertemuan 4
+
+#### Demo Aplikasi
+<img src="assets/demotugas3.gif" width="200" alt="Demo List Buku"/>
