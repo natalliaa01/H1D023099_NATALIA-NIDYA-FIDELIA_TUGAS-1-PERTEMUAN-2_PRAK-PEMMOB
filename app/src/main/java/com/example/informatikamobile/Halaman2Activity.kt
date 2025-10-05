@@ -73,6 +73,12 @@ class Halaman2Activity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        binding.layoutBuku.root.setOnClickListener {
+            val intent = Intent(this, DaftarBukuActivity::class.java)
+            startActivity(intent)
+        }
+
+
         binding.btnBack.setOnClickListener {
             finish()
         }
