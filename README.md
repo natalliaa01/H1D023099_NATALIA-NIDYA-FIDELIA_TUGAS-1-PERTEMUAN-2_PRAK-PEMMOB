@@ -30,3 +30,9 @@
 
 #### Demo Aplikasi
 <img src="assets/demotugas3.gif" width="600" alt="Demo List Buku"/>
+
+### Tugas 4 Pertemuan 5
+
+#### Demo Aplikasi
+<img src="assets/demotugas4.gif" width="600" alt="Demo List Buku Part 2"/>
+
